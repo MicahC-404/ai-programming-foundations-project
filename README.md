@@ -1,5 +1,3 @@
-# ai-programming-foundations-project
-
 # AI Programming Foundations: Titanic Data Workflow
 
 ## Project Description
